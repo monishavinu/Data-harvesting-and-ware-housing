@@ -8,7 +8,7 @@ STREAMLIT: Streamlit library was used to create a user-friendly UI that enables 
 PYTHON: Python is a powerful programming language renowned for being easy to learn and understand. Python is the primary language employed in this project for the development of the complete application, including data retrieval, processing, analysis, and visualisation.
 
 GOOGLE API CLIENT: The googleapiclient library in Python facilitates the communication with different Google APIs. Its primary purpose in this project is to interact with YouTube's Data API v3, allowing the retrieval of essential information like channel details, video specifics, and comments. By utilizing googleapiclient, developers can easily access and manipulate YouTube's extensive data resources through code.
-
+Demo work of this project:-https://www.linkedin.com/posts/monisha-murugan-5b18802a9_project1-youtube-data-harvesting-and-warehousing-activity-7150744641435234305-9kLw?utm_source=share&utm_medium=member_desktop
 MONGODB: MongoDB is built on a scale-out architecture that has become popular with developers of all kinds for developing scalable applications with evolving data schemas. As a document database, MongoDB makes it easy for developers to store structured or unstructured data. It uses a JSON-like format to store documents.
 
 XAMMPSQL: XAMMP is an open-source, advanced, and highly scalable database management system (DBMS) known for its reliability and extensive features. It provides a platform for storing and managing structured data, offering support for various data types and advanced SQL capabilities.
